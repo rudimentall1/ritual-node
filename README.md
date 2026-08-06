@@ -1,7 +1,17 @@
-# ritual-node
+# Ritual Node
 
-Demo node для проекта **ritual**.
+Node deployment workspace for the Ritual network.
 
-## GitHub Actions CI
+## Purpose
 
-![CI](https://github.com/rudimentall1/ritual-node/actions/workflows/ci.yml/badge.svg)
+This repository contains the configuration and automation used to provision and operate a Ritual node instance.
+
+## CI
+
+GitHub Actions validates the repository through the project CI workflow.
+
+## Status
+
+Infrastructure / node-operations workspace.
+
+Refer to the repository configuration and workflow files for the current deployment procedure.
